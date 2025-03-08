@@ -1,4 +1,4 @@
-#Adding a “Sale” Option to Display Discounted Products in WooCommerce
+#Adding "Sort by Sale" Option to Display Discounted Products in WooCommerce
 #
 [![pooyanshabani](https://pooyan-shabani.ir/wp-content/uploads/2025/03/sort-by-sale.jpg)](https://pooyan-shabani.ir/tricks/adding-a-sale-option-to-display-discounted-products-in-woocommerce/)
 #
