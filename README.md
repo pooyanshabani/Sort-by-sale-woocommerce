@@ -1,5 +1,7 @@
 #Adding a “Sale” Option to Display Discounted Products in WooCommerce
-
+#
+[![pooyanshabani](https://pooyan-shabani.ir/wp-content/uploads/2025/03/sort-by-sale.jpg)](https://pooyan-shabani.ir/tricks/adding-a-sale-option-to-display-discounted-products-in-woocommerce/)
+#
 Just drop this snippet of code into the `functions.php` file of your WordPress theme, and you’re good to go! It’ll add a new sorting option, labeled “On Sale” (you can rename this), to the default WooCommerce sort dropdown (like “Newest” or “Lowest Price”). When users select this option, all products with discounts will be displayed.
 
 ```php
